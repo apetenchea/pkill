@@ -1,0 +1,4 @@
+argparse
+psutil
+ctypes
+pywin32
